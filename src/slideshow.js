@@ -70,7 +70,7 @@ const slideshow = () => {
 
   slideNav();
 
-  setTimeout(() => {
+  setInterval(() => {
     slideRight();
   }, 5000);
 }
