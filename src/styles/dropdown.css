@@ -1,0 +1,7 @@
+.drop-down {
+  display: none;
+}
+
+.drop-down-header.active > ul {
+  display: block;
+}
